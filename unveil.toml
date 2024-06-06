@@ -1,0 +1,4 @@
+name = "unveil"
+language = "FR"
+slides = ["landing.md", "intro.md", "intro2.md", "mut.md", "mut2.md", "mut3.md", "mut4.md", "struct.md", "struct2.md", "ram.md", "ram2.md", "thread.md", "thread2.md", "thread3.md", "type.md", "type2.md", "match.md", "match2.md", "match3.md", "option.md", "option2.md", "option3.md", "option4.md", "result.md", "result2.md", "result3.md", "end.md"]
+gitignore = true
